@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cgaat.github.io/AOF/sitemap.AOF.gz
